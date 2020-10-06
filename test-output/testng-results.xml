@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-07T00:29:34 CEST" name="Suite" finished-at="2020-10-07T00:31:10 CEST" duration-ms="96188">
+    <groups>
+    </groups>
+    <test started-at="2020-10-07T00:29:34 CEST" name="Title page is ok" finished-at="2020-10-07T00:29:45 CEST" duration-ms="10325">
+      <class name="selenium.ValidateNavbar">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:selenium.ValidateNavbar@2b6faea6]" started-at="2020-10-07T00:29:34 CEST" name="initialize" finished-at="2020-10-07T00:29:39 CEST" duration-ms="5149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="validateNavBar()[pri:0, instance:selenium.ValidateNavbar@2b6faea6]" started-at="2020-10-07T00:29:39 CEST" name="validateNavBar" finished-at="2020-10-07T00:29:39 CEST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNavBar -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:selenium.ValidateNavbar@2b6faea6]" started-at="2020-10-07T00:29:39 CEST" name="teardown" finished-at="2020-10-07T00:29:45 CEST" duration-ms="5066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium.ValidateNavbar -->
+    </test> <!-- Title page is ok -->
+    <test started-at="2020-10-07T00:29:45 CEST" name="Registering a new user successfully" finished-at="2020-10-07T00:29:59 CEST" duration-ms="13949">
+      <class name="selenium.RegisterTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:selenium.RegisterTest@bef2d72]" started-at="2020-10-07T00:29:45 CEST" name="initialize" finished-at="2020-10-07T00:29:48 CEST" duration-ms="3081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="basePageRegister()[pri:0, instance:selenium.RegisterTest@bef2d72]" started-at="2020-10-07T00:29:48 CEST" name="basePageRegister" finished-at="2020-10-07T00:29:53 CEST" duration-ms="5790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageRegister -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:selenium.RegisterTest@bef2d72]" started-at="2020-10-07T00:29:53 CEST" name="teardown" finished-at="2020-10-07T00:29:59 CEST" duration-ms="5075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium.RegisterTest -->
+    </test> <!-- Registering a new user successfully -->
+    <test started-at="2020-10-07T00:29:59 CEST" name="Login user successfully" finished-at="2020-10-07T00:30:10 CEST" duration-ms="11599">
+      <class name="selenium.LoginTest">
+        <test-method signature="basePageLogin()[pri:0, instance:selenium.LoginTest@49b0b76]" started-at="2020-10-07T00:29:59 CEST" name="basePageLogin" finished-at="2020-10-07T00:30:05 CEST" duration-ms="6512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:selenium.LoginTest@49b0b76]" started-at="2020-10-07T00:30:05 CEST" name="teardown" finished-at="2020-10-07T00:30:10 CEST" duration-ms="5085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium.LoginTest -->
+    </test> <!-- Login user successfully -->
+    <test started-at="2020-10-07T00:30:10 CEST" name="New story share successfully" finished-at="2020-10-07T00:30:39 CEST" duration-ms="28803">
+      <class name="selenium.StoryTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:selenium.StoryTest@3d680b5a]" started-at="2020-10-07T00:30:10 CEST" name="initialize" finished-at="2020-10-07T00:30:13 CEST" duration-ms="3068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="baseStoryTest()[pri:0, instance:selenium.StoryTest@3d680b5a]" started-at="2020-10-07T00:30:13 CEST" name="baseStoryTest" finished-at="2020-10-07T00:30:39 CEST" duration-ms="25733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseStoryTest -->
+      </class> <!-- selenium.StoryTest -->
+    </test> <!-- New story share successfully -->
+    <test started-at="2020-10-07T00:30:39 CEST" name="Like button work properly" finished-at="2020-10-07T00:30:54 CEST" duration-ms="15414">
+      <class name="selenium.LikeTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:selenium.LikeTest@470f1802]" started-at="2020-10-07T00:30:39 CEST" name="initialize" finished-at="2020-10-07T00:30:42 CEST" duration-ms="3143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="baseLikeTest()[pri:0, instance:selenium.LikeTest@470f1802]" started-at="2020-10-07T00:30:42 CEST" name="baseLikeTest" finished-at="2020-10-07T00:30:49 CEST" duration-ms="7198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseLikeTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:selenium.LikeTest@470f1802]" started-at="2020-10-07T00:30:49 CEST" name="teardown" finished-at="2020-10-07T00:30:54 CEST" duration-ms="5071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium.LikeTest -->
+    </test> <!-- Like button work properly -->
+    <test started-at="2020-10-07T00:30:54 CEST" name="Comment on post work properly" finished-at="2020-10-07T00:31:10 CEST" duration-ms="16018">
+      <class name="selenium.CommentTest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:selenium.CommentTest@5bd03f44]" started-at="2020-10-07T00:30:54 CEST" name="initialize" finished-at="2020-10-07T00:30:58 CEST" duration-ms="3250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="baseCommentTest()[pri:0, instance:selenium.CommentTest@5bd03f44]" started-at="2020-10-07T00:30:58 CEST" name="baseCommentTest" finished-at="2020-10-07T00:31:05 CEST" duration-ms="7695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseCommentTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:selenium.CommentTest@5bd03f44]" started-at="2020-10-07T00:31:05 CEST" name="teardown" finished-at="2020-10-07T00:31:10 CEST" duration-ms="5070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium.CommentTest -->
+    </test> <!-- Comment on post work properly -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-30T20:42:35 CEST" name="Suite" finished-at="2020-09-30T20:42:51 CEST" duration-ms="15600">
+    <groups>
+    </groups>
+    <test started-at="2020-09-30T20:42:35 CEST" name="Test" finished-at="2020-09-30T20:42:51 CEST" duration-ms="15600">
+      <class name="main.HomePage">
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main.HomePage@7a52f2a2]" started-at="2020-09-30T20:42:35 CEST" name="basePageNavigation" data-provider="getData" finished-at="2020-09-30T20:42:41 CEST" duration-ms="5708" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rasdasdl]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saidjia]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sadaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main.HomePage@7a52f2a2]" started-at="2020-09-30T20:42:41 CEST" name="basePageNavigation" data-provider="getData" finished-at="2020-09-30T20:42:46 CEST" duration-ms="4914" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[45454s]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sadada]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sadassss]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main.HomePage@7a52f2a2]" started-at="2020-09-30T20:42:46 CEST" name="basePageNavigation" data-provider="getData" finished-at="2020-09-30T20:42:51 CEST" duration-ms="4951" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lowercslive.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sasasa5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sasasa5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- main.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

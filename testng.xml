@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+     <listener class-name="main.ExtentReporterNG"/>
+</listeners> 
+
+	<test name="Title page is ok">
+		<classes>
+			<class name="selenium.ValidateNavbar" />
+		</classes>
+	</test>
+	<test name="Registering a new user successfully">
+		<classes>
+			<class name="selenium.RegisterTest" />
+		</classes>
+	</test>
+	<test name="Login user successfully">
+		<classes>
+			<class name="selenium.LoginTest" />
+		</classes>
+	</test>
+	<test name="New story share successfully">
+		<classes>
+			<class name="selenium.StoryTest" />
+		</classes>
+	</test>
+	<test name="Like button work properly">
+		<classes>
+			<class name="selenium.LikeTest" />
+		</classes>
+	</test>
+	<test name="Comment on post work properly">
+		<classes>
+			<class name="selenium.CommentTest" />
+		</classes>
+	</test>
+  
+   
+    <!-- Test -->
+</suite> <!-- Suite -->
