@@ -2,11 +2,8 @@
 
 # About project
 This is Selenium Maven project which automate testing Social Network Instagram. 
-The project uses: 
-FRAMEWORKS: TestNG, ExtentReports, JuNIT
-PLUGINS: Maven, AutoIt V3
-DESIGN PATTERN: Page Object Model (POM)
-uick Build
+
+The project uses
 -------
 Frameworks
 - TestNG, ExtentReports, JUnit
