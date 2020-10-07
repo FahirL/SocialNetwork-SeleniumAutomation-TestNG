@@ -1,4 +1,11 @@
-# SocialNetwork-SeleniumAutomation-TestNG
+# SocialNetwork Automation test with Selenium Maven
+
+# About project
+This is Selenium Maven project which automate testing Social Network Instagram. 
+The project uses: 
+FRAMEWORKS: TestNG, ExtentReports, JuNIT
+PLUGINS: Maven, AutoIt V3
+DESIGN PATTERN: Page Object Model (POM)
 
 ![](https://github.com/FahirL/SocialNetwork-SeleniumAutomation-TestNG/blob/master/socialnetwork.gif?raw=true)
 
