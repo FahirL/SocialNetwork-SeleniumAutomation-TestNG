@@ -7,7 +7,7 @@ This is Selenium Maven project which automate testing Social Network Instagram. 
 
 ## Video
 
-[![Watch the video](https://i.ibb.co/vHq29P9/tomb.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.ibb.co/vHq29P9/tomb.png)](https://www.loom.com/share/460b1cfc943244b4b25f8d95ffefcf04)
 
 
 ## Usage
