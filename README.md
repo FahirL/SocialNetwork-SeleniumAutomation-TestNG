@@ -2,7 +2,7 @@
 
 This is Selenium Maven project which automate testing Social Network Instagram. 
 
-The project uses
+USAGE
 -------
 Frameworks
 - TestNG, ExtentReports, JUnit
