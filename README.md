@@ -1,6 +1,6 @@
 # SocialNetwork Automation test with Selenium Maven
 
-This is Selenium Maven project which automate testing Social Network Instagram. 
+This is Selenium Maven project which automate testing Social Network Instagram. You can find tests in src/test/java/selenium. I tested validate title name, register, login, share story, like and comment. All tests are  written with a successful result.
 
 USAGE
 -------
@@ -13,8 +13,11 @@ Plugins
 Design pattern
 - Page Object Model (POM)
 
+INSTALLATION AND RUNNING
+-------
 
-
+```python
+import foobar
 
 Apache Maven
 ============
