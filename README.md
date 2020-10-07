@@ -6,7 +6,14 @@ The project uses:
 FRAMEWORKS: TestNG, ExtentReports, JuNIT
 PLUGINS: Maven, AutoIt V3
 DESIGN PATTERN: Page Object Model (POM)
-
+uick Build
+-------
+Frameworks
+- TestNG, ExtentReports, JUnit
+Plugins
+- Maven 3.0.5 or later
+- Run Maven, specifying a location into which the completed Maven distro should be installed:
+```
 ![](https://github.com/FahirL/SocialNetwork-SeleniumAutomation-TestNG/blob/master/socialnetwork.gif?raw=true)
 
 <!---
