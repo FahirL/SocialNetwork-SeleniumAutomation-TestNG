@@ -5,6 +5,10 @@ This is Selenium Maven project which automate testing Social Network Instagram. 
 ## Gif 
 ![Alt Text](https://github.com/FahirL/SocialNetwork-SeleniumAutomation-TestNG/blob/master/socialnetwork.gif?raw=true)
 
+## Video
+
+[![Alt text for your video](https://ibb.co/c13zqFq)](https://www.loom.com/share/460b1cfc943244b4b25f8d95ffefcf04)
+
 ## Usage
 -------
 Frameworks
