@@ -18,7 +18,7 @@ INSTALLATION AND RUNNING
 
 ```python
 import foobar
-
+```
 Apache Maven
 ============
 
