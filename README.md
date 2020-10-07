@@ -13,7 +13,7 @@ Plugins
 Design pattern
 - Page Object Model (POM)
 
-INSTALLATION AND RUNNING
+## Installation and runing
 -------
 
 ```python
