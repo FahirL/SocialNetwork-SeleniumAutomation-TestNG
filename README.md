@@ -12,8 +12,10 @@ Frameworks
 - TestNG, ExtentReports, JUnit
 
 Plugins
-- Maven 3.0.5 or later
-- Run Maven, specifying a location into which the completed Maven distro should be installed:
+- Maven, AutoIt V3
+
+Design pattern
+- Page Object Model (POM)
 ```
 ![](https://github.com/FahirL/SocialNetwork-SeleniumAutomation-TestNG/blob/master/socialnetwork.gif?raw=true)
 
