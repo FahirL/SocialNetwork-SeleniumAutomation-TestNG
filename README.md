@@ -13,6 +13,8 @@ Plugins
 Design pattern
 - Page Object Model (POM)
 
+//you can see versions in pom.xml
+
 ## Installation and runing
 -------
 
