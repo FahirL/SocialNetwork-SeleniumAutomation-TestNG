@@ -28,6 +28,16 @@ maven compile
 maven test
 
 ```
+You can run tests in Chrome, Firefox and IE. But don't forget to set your browser options in /src/main/java/main/base.java and /src/main/java/main/data.properties
+It can you too run with command
+```python
+
+mvn test -Dbrowser=chrome
+mvn test -Dbrowser=firefox
+mvn test -Dbrowser=internet explorer
+
+```
+
 Apache Maven
 ============
 
