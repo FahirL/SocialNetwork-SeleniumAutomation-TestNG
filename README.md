@@ -19,7 +19,7 @@ Design pattern
 -------
 Before starting the test you must install Maven correctly. [SEE INSTRUCTIONS](https://maven.apache.org/install.html)
 
-Running
+Running tests:
 
 ```python
 
@@ -29,7 +29,8 @@ maven test
 
 ```
 You can run tests in Chrome, Firefox and IE. But don't forget to set your browser options in /src/main/java/main/base.java and /src/main/java/main/data.properties
-It can you too run with command
+This can also be run with a commands:
+
 ```python
 
 mvn test -Dbrowser=chrome
