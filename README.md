@@ -17,6 +17,8 @@ Design pattern
 
 ## Installation and runing
 -------
+Before starting the test you must install Maven correctly.
+https://maven.apache.org/install.html
 
 ```python
 import foobar
