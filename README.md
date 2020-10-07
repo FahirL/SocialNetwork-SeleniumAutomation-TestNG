@@ -12,6 +12,7 @@ Plugins
 
 Design pattern
 - Page Object Model (POM)
+
 ```
 
 
