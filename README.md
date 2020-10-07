@@ -19,9 +19,11 @@ Design pattern
 -------
 Before starting the test you must install Maven correctly. [SEE INSTRUCTIONS](https://maven.apache.org/install.html)
 
-
+Runing
 ```python
-import foobar
+cd pathfolder
+maven compile
+maven test
 ```
 Apache Maven
 ============
