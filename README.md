@@ -1,6 +1,5 @@
 # SocialNetwork Automation test with Selenium Maven
 
-# About project
 This is Selenium Maven project which automate testing Social Network Instagram. 
 
 The project uses
