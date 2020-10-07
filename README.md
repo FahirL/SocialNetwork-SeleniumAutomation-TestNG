@@ -2,6 +2,9 @@
 
 This is Selenium Maven project which automate testing Social Network Instagram. You can find tests in src/test/java/selenium. I tested validate title name, register, login, share story, like and comment. All tests are  written with a successful result.
 
+## Gif 
+![Alt Text](https://github.com/FahirL/SocialNetwork-SeleniumAutomation-TestNG/blob/master/socialnetwork.gif?raw=true)
+
 ## Usage
 -------
 Frameworks
