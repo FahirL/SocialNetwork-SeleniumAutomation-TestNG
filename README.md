@@ -10,6 +10,7 @@ uick Build
 -------
 Frameworks
 - TestNG, ExtentReports, JUnit
+
 Plugins
 - Maven 3.0.5 or later
 - Run Maven, specifying a location into which the completed Maven distro should be installed:
