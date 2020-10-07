@@ -15,8 +15,6 @@ Design pattern
 ```
 
 
-![](https://github.com/FahirL/SocialNetwork-SeleniumAutomation-TestNG/blob/master/socialnetwork.gif?raw=true)
-
 <!---
  Licensed to the Apache Software Foundation (ASF) under one or more
  contributor license agreements.  See the NOTICE file distributed with
@@ -106,5 +104,4 @@ mvn -DdistributionTargetDir="$HOME/app/maven/apache-maven-3.7.x-SNAPSHOT" clean 
 [core-it]: https://maven.apache.org/core-its/core-it-suite/
 [building-maven]: https://maven.apache.org/guides/development/guide-building-maven.html
 [cla]: https://www.apache.org/licenses/#clas
-
 
